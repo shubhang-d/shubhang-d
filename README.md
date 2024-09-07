@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=नमस्ते%20दुनिया!!&section=header&reversal=false&textBg=false&descAlign=50" alt="नमस्ते दुनिया!!">
+</p>
 <h1 align="center">Hi 👋, I'm Shubhang</h1>
 <h3 align="center">I love developing android apps, computer vision and machine learning models, IoT, and everything that I’m curious about.</h3>
 
