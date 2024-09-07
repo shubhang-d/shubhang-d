@@ -1,5 +1,18 @@
+<h1 align="center">Hi 👋, I'm Shubhang</h1>
+<h3 align="center">I love developing android apps, computer vision and machine learning models, IoT, and everything that I’m curious about.</h3>
+
 # 💫 About Me:
-I am currently working on android apps, computer vision, machine learning, IoT, cybersecurity and everything that I'm curious about. I love different technologies and I have worked in many technologies specified above. I want to collaborate in open source. I am starting to collaborate in it. Going to hackathons and networking there is my favorite hobby.
+- 🔭 I’m currently working on **basically everything that exists in this universe**
+
+- 🌱 I’m currently learning **Android, Machine Learning**
+
+- 📝 I regularly write articles on [nerdsterminal.com](nerdsterminal.com)
+
+- 💬 Ask me about **anything. If I know about it, it's fine. Otherwise, we can also have a good chat.**
+
+- 📫 How to reach me **shubhangd205@gmail.com**
+
+- ⚡ Fun fact **I'm an ambivert.**
 
 
 ## 🌐 Socials:
