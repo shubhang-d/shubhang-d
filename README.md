@@ -68,8 +68,8 @@ class Developer {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-olive-six-15.vercel.app/api?username=shubhang-d&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats-olive-six-15.vercel.app/api/top-langs/?username=shubhang-d&layout=compact&langs_count=8&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats-subhangs-projects.vercel.app/api?username=shubhang-d&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats-subhangs-projects.vercel.app/api/top-langs/?username=shubhang-d&layout=compact&langs_count=8&theme=midnight-purple&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff"/>
 
 <img width="70%" src="https://streak-stats.demolab.com/?user=shubhang-d&theme=midnight-purple&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ec4899&currStreakLabel=a78bfa"/>
 
@@ -91,7 +91,7 @@ class Developer {
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=shubhang-d&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=shubhang-d&theme=darkhub&no-frame=true&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -101,10 +101,7 @@ class Developer {
 
 <div align="center">
 
-> **Setup:** Go to your `shubhang-d` repo → Actions → New workflow → paste [this action](https://github.com/Platane/snk) → the snake will auto-generate!
-
-<!-- After setting up the action, uncomment the line below and delete this comment -->
-<!-- <img src="https://raw.githubusercontent.com/shubhang-d/shubhang-d/output/github-contribution-grid-snake-animated.svg" alt="Snake animation" /> -->
+<img src="https://raw.githubusercontent.com/shubhang-d/shubhang-d/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
