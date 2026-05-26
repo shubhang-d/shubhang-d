@@ -68,8 +68,7 @@ class Developer {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-subhangs-projects.vercel.app/api?username=shubhang-d&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats-subhangs-projects.vercel.app/api/top-langs/?username=shubhang-d&layout=compact&langs_count=8&theme=midnight-purple&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff"/>
+<img src="metrics.svg" alt="GitHub Metrics"/>
 
 <img width="70%" src="https://streak-stats.demolab.com/?user=shubhang-d&theme=midnight-purple&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ec4899&currStreakLabel=a78bfa"/>
 
@@ -82,16 +81,6 @@ class Developer {
 <div align="center">
 
 [![Shubhang's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shubhang-d&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ec4899&area=true&area_color=302b63&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=shubhang-d&theme=darkhub&no-frame=true&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
